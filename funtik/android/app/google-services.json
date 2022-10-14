@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073207723310",
+    "project_id": "tiktok-30008",
+    "storage_bucket": "tiktok-30008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073207723310:android:518d599864d62ed8c1a6bf",
+        "android_client_info": {
+          "package_name": "com.example.funtik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073207723310-oocefb33tj8dfhnflmjsjhlls2al9pbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW1mnlXEVwbB9WuTK93Arq8mkNwC-YRjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073207723310-oocefb33tj8dfhnflmjsjhlls2al9pbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
