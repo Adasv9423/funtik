@@ -35,6 +35,8 @@ Then run the following commands to run your app:
 **Architecture**: MVC
 
 APP OVERVIEW-
+
+
 ![funtik1](https://github.com/Adasv9423/funtik/assets/76847225/5efc7667-afd4-40e2-a4c6-29d9ef100adf)
 ![funtik2](https://github.com/Adasv9423/funtik/assets/76847225/0acbe6bd-ba6a-4509-ab49-3fd83e553433)
 ![funtik3](https://github.com/Adasv9423/funtik/assets/76847225/6fb1d706-88ea-47c5-b4d7-f0f4840c7cae)
