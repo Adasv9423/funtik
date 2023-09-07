@@ -1,6 +1,6 @@
 # FUNTIK(ENTERTAINMENT APP)
 
-A Tiktok App- Works on Android & iOS! 
+An Entertaimnent App- Works on Android & iOS! 
 
 ## Features
 - Authentication with Email & Password
@@ -33,5 +33,8 @@ Then run the following commands to run your app:
 **Client**: Flutter, GetX
 
 **Architecture**: MVC
+
+APP OVERVIEW-
+
     
 
