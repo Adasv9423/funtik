@@ -13,7 +13,10 @@ LOGIN AND REGISTER PAGE-
 ![funtik1](https://github.com/Adasv9423/funtik/assets/76847225/9c90be7e-edc3-44a0-981a-5dc0d1d1b665)
 
 SEARCH FUNCTION-
+
 ![funtik_serach](https://github.com/Adasv9423/funtik/assets/76847225/ef1bc744-cc3a-4593-9921-d92190c4c1ce)
+
+
 
 
 
