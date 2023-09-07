@@ -1,22 +1,37 @@
-#            FUNTIK(ENTERTAINMENT APP)
-An user after email and password authentication can persist auth state can upload videos along with caption and song name,comment
-on videos, like the comments, search other users by userid and view his profile, follow users and also can unfollow and can signout.
+# FUNTIK(ENTERTAINMENT APP)
 
-Social media app where user can view shorts vidoes like reels.
+A Tiktok App- Works on Android & iOS! 
 
-On display screen user can see video,the number of likes,auto generated thumbnails,song name and captions.
+## Features
+- Authentication with Email & Password
+- Uploading Videos with Caption
+- Generating Thumbnails Out of Video
+- Displaying Videos with Caption
+- Liking on Posts
+- Commenting on Posts
+- Liking the Comments
+- Searching Users
+- Following Users
+- Displaying Followers, Following, Likes & Posts of User
 
+## Installation
+After cloning this repository, migrate to root folder. Then, follow the following steps:
+- Create Firebase Project
+- Enable Authentication
+- Make Firestore Rules
+- Create Android & iOS Emulator/Simulator
+Then run the following commands to run your app:
+```bash
+  flutter pub get
+  open -a simulator (to get iOS Simulator)
+  flutter run
+```
 
+## Tech Used
+**Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
-LOGIN AND REGISTER PAGE-
+**Client**: Flutter, GetX
 
-![funtik1](https://github.com/Adasv9423/funtik/assets/76847225/9c90be7e-edc3-44a0-981a-5dc0d1d1b665)
-
-SEARCH FUNCTION-
-
-![funtik_serach](https://github.com/Adasv9423/funtik/assets/76847225/ef1bc744-cc3a-4593-9921-d92190c4c1ce)
-
-
-
-
+**Architecture**: MVC
+    
 
